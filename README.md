@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itisha Sharma</h1>
-<h3 align="center">Data Science Professional | Power BI, Python, SQL & Tableau Expert | Expert in Forecasting, Machine Learning, Recommender Systems, & Predictive Modeling | Knowledge Explorer | Data Sage</h3>
+<h3 align="center">Data Scientist | Power BI | Python | SQL | Tableau | Forecasting | Machine Learning | Gen AI | Recommender System | Knowledge Explorer | Data Sage | Instructional designer | Training and development | Researcher</h3>
 
 - 🔭 I’m currently working on **LLMs, RAG, Multimodality, AI, Computer Vision**
 
