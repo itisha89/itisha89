@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLMs, RAG, Multimodality, AI, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://theivision.wordpress.com/](https://theivision.wordpress.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://itisha89.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
