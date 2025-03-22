@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Itisha Sharma</h1>
-<h3 align="center">Data Scientist | Power BI | Python | SQL | Tableau | Forecasting | Machine Learning | Gen AI | Recommender System | Knowledge Explorer | Data Sage | Instructional designer | Training and development | Researcher</h3>
+<h3 align="center"> Azure Data Factory | Azure Data Lake Gen 2 | Alteryx | Databricks | Power BI | Python | SQL | Tableau | Machine Learning | Gen AI | Big Data | Pyspark </h3>
 
-- 🔭 I’m currently working on **LLMs, RAG, Multimodality, AI, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://itisha89.github.io/)
 
